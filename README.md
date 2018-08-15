@@ -1,15 +1,18 @@
 # PiyushLog4NetApps
-A simple log4net implementation in a console application.
+A simple **log4net** implementation in a console application.
 
 # Steps
 1. Use nuget pakage manager to add log4net The Apache Software Foundation.
 2. Add following inside <configuration> of your app.config
-3. <!--Note: The configSections must be the first element in configuration-->
-     <configSections>
-      <section name="log4net" type="log4net.Config.Log4NetConfigurationSectionHandler, log4net" />
-    </configSections>
-  4. <log4net>
-        <!--This will show the logs in Console-->
+3. ```
+      <!--Note: The configSections must be the first element in configuration-->
+        <configSections>
+          <section name="log4net" type="log4net.Config.Log4NetConfigurationSectionHandler, log4net" />
+        </configSections>
+   ```
+4. ``` 
+    <log4net>
+        This will show the logs in Console
         <appender name="ConsoleAppender" type="log4net.Appender.ColoredConsoleAppender">
           <layout type="log4net.Layout.PatternLayout">
             <conversionPattern value="%date %level [%thread] %logger{1} %username - %message%newline" />
@@ -56,3 +59,4 @@ A simple log4net implementation in a console application.
           <appender-ref ref="LogFileAppender" />
         </root>
     </log4net>
+  ```
