@@ -59,4 +59,7 @@ A simple **log4net** implementation in a console application.
           <appender-ref ref="LogFileAppender" />
         </root>
     </log4net>
-  ```
+5. ```
+      Helping hands
+      1. Thanks to [David Spence] (http://spencerooni.github.io/2016/05/06/simple-log4net-setup.html) 
+      2. and [Andreas Paulsson] (https://stackoverflow.com/questions/3618380/log4net-does-not-write-the-log-file).
