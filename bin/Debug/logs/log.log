@@ -1,0 +1,10 @@
+2018-08-15 20:16:19,194 DEBUG [1] Log4NetProgram - This is a Debug message
+2018-08-15 20:16:19,327 INFO [1] Log4NetProgram - This is a Info message
+2018-08-15 20:16:19,673 WARN [1] Log4NetProgram - This is a Warning message
+2018-08-15 20:16:19,686 ERROR [1] Log4NetProgram - This is an Error message
+2018-08-15 20:16:19,697 FATAL [1] Log4NetProgram - This is a Fatal message
+2018-08-15 20:17:11,598 DEBUG [1] Log4NetProgram - This is a Debug message
+2018-08-15 20:17:11,645 INFO [1] Log4NetProgram - This is a Info message
+2018-08-15 20:17:11,659 WARN [1] Log4NetProgram - This is a Warning message
+2018-08-15 20:17:11,683 ERROR [1] Log4NetProgram - This is an Error message
+2018-08-15 20:17:11,696 FATAL [1] Log4NetProgram - This is a Fatal message

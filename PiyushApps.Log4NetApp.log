@@ -1,0 +1,5 @@
+2018-08-15 20:17:11,598 [1] DEBUG PiyushApps.Log4NetApp.Log4NetProgram - This is a Debug message
+2018-08-15 20:17:11,645 [1] INFO PiyushApps.Log4NetApp.Log4NetProgram - This is a Info message
+2018-08-15 20:17:11,659 [1] WARN PiyushApps.Log4NetApp.Log4NetProgram - This is a Warning message
+2018-08-15 20:17:11,683 [1] ERROR PiyushApps.Log4NetApp.Log4NetProgram - This is an Error message
+2018-08-15 20:17:11,696 [1] FATAL PiyushApps.Log4NetApp.Log4NetProgram - This is a Fatal message

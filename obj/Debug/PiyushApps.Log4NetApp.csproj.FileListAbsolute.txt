@@ -1,0 +1,18 @@
+C:\Users\Pyuish\Documents\Visual Studio 2017\Projects\PiyushApps\PiyushApps.Log4NetApp\bin\Debug\PiyushApps.Log4NetApp.exe.config
+C:\Users\Pyuish\Documents\Visual Studio 2017\Projects\PiyushApps\PiyushApps.Log4NetApp\bin\Debug\PiyushApps.Log4NetApp.exe
+C:\Users\Pyuish\Documents\Visual Studio 2017\Projects\PiyushApps\PiyushApps.Log4NetApp\bin\Debug\PiyushApps.Log4NetApp.pdb
+C:\Users\Pyuish\Documents\Visual Studio 2017\Projects\PiyushApps\PiyushApps.Log4NetApp\bin\Debug\log4net.dll
+C:\Users\Pyuish\Documents\Visual Studio 2017\Projects\PiyushApps\PiyushApps.Log4NetApp\bin\Debug\log4net.xml
+C:\Users\Pyuish\Documents\Visual Studio 2017\Projects\PiyushApps\PiyushApps.Log4NetApp\obj\Debug\PiyushApps.Log4NetApp.csprojAssemblyReference.cache
+C:\Users\Pyuish\Documents\Visual Studio 2017\Projects\PiyushApps\PiyushApps.Log4NetApp\obj\Debug\PiyushApps.Log4NetApp.csproj.CoreCompileInputs.cache
+C:\Users\Pyuish\Documents\Visual Studio 2017\Projects\PiyushApps\PiyushApps.Log4NetApp\obj\Debug\PiyushApps.Log4NetApp.csproj.CopyComplete
+C:\Users\Pyuish\Documents\Visual Studio 2017\Projects\PiyushApps\PiyushApps.Log4NetApp\obj\Debug\PiyushApps.Log4NetApp.exe
+C:\Users\Pyuish\Documents\Visual Studio 2017\Projects\PiyushApps\PiyushApps.Log4NetApp\obj\Debug\PiyushApps.Log4NetApp.pdb
+C:\Users\Pyuish\Source\Repos\PiyushLog4NetApp\bin\Debug\PiyushApps.Log4NetApp.exe.config
+C:\Users\Pyuish\Source\Repos\PiyushLog4NetApp\bin\Debug\PiyushApps.Log4NetApp.exe
+C:\Users\Pyuish\Source\Repos\PiyushLog4NetApp\bin\Debug\PiyushApps.Log4NetApp.pdb
+C:\Users\Pyuish\Source\Repos\PiyushLog4NetApp\obj\Debug\PiyushApps.Log4NetApp.csproj.CoreCompileInputs.cache
+C:\Users\Pyuish\Source\Repos\PiyushLog4NetApp\obj\Debug\PiyushApps.Log4NetApp.csproj.CopyComplete
+C:\Users\Pyuish\Source\Repos\PiyushLog4NetApp\obj\Debug\PiyushApps.Log4NetApp.exe
+C:\Users\Pyuish\Source\Repos\PiyushLog4NetApp\obj\Debug\PiyushApps.Log4NetApp.pdb
+C:\Users\Pyuish\Source\Repos\PiyushLog4NetApp\obj\Debug\PiyushApps.Log4NetApp.csprojAssemblyReference.cache
